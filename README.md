@@ -43,16 +43,41 @@ The stock market offers numerous investment opportunities, but analyzing individ
 ### Distribution Analysis
 3. **Price Change Distribution**: 
    - The distribution of price change follows an approximately normal distribution.
+<center> 
+
+  ![price change](https://github.com/Shreya971309/-Stock-Market-Clustering-Analysis/assets/156785157/25f8e671-6488-4cec-ab4f-6529c6e57d26)
+
+ </center>
 
 ### Sector Analysis
-4. **Sector Performance & Financial Metrics**: 
+4. **Sector Performance & Financial Metrics**:
+   <br> Among the GICS sectors, Industrials has the highest number of securities in the dataset, followed Financials and Healthcare.
+<center> 
+  
+  ![GICS sector](https://github.com/Shreya971309/-Stock-Market-Clustering-Analysis/assets/156785157/df892ebd-9c99-42e3-84e6-444e542f813e)
+
+  </center>
+  
    - **Healthcare Sector**: Demonstrated the highest average price increase.
    - **Information Technology Sector**: Exhibited the highest average Cash Ratio and P/E Ratio.
    - **Utility Sector**: Recorded the lowest average Cash Ratio.
 
+ <img src="https://github.com/Shreya971309/-Stock-Market-Clustering-Analysis/assets/156785157/1fad2247-6911-4f7e-a473-4df2a900100d" width="400" height="300"> <img src="https://github.com/Shreya971309/-Stock-Market-Clustering-Analysis/assets/156785157/45762b02-31a4-4d2d-a6ec-78d77147ec23" width="400" height="300">
+
+<img src="https://github.com/Shreya971309/-Stock-Market-Clustering-Analysis/assets/156785157/4ca0ab72-c1e8-4c08-bf6e-08ad244651f3" width="400" height="300">
+
+
+
 ### Correlation Analysis
 5. **Correlation between Financial Metrics**:
    - Net Income shows a moderately high positive correlation with Earnings per Share and Estimated Shares Outstanding (0.56 and 0.59 respectively).
+<center>   
+  
+![correlation](https://github.com/Shreya971309/-Stock-Market-Clustering-Analysis/assets/156785157/af74ecd0-455e-4410-9bae-d76c17879e03)
+
+
+</center>
+
 
 </details>
 
